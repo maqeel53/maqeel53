@@ -48,10 +48,13 @@
 
 ---
 
-### Featured Project
+### Featured Projects
 
 #### [Automation Blueprint](https://github.com/maqeel53/automation-blueprint)
-Production-grade Playwright automation framework showcasing enterprise QA patterns — Page Object Model, custom fixtures, multi-reporter (HTML + Allure), cross-browser testing, and GitHub Actions CI/CD. **26 smoke tests** with 100% pass rate.
+Production-grade **Playwright** E2E automation framework — Page Object Model, custom fixtures, multi-reporter (HTML + Allure), cross-browser testing, and GitHub Actions CI/CD. **26 smoke tests** with 100% pass rate.
+
+#### [API Test Blueprint](https://github.com/maqeel53/api-test-blueprint)
+Production-grade **Cypress** API testing framework — custom assertions, fixture-driven tests, full CRUD coverage (GET/POST/PUT/PATCH/DELETE), query parameter filtering, and GitHub Actions CI/CD. **24 tests** across 5 suites.
 
 ---
 
