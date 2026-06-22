@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Aqeel
 
-**Sr. QA Engineer** specializing in AI-accelerated test automation for enterprise platforms.
+**Sr. SQA Engineer** specializing in AI-accelerated test automation for enterprise platforms.
 
 ---
 
